@@ -1,0 +1,12 @@
+{
+  "name": "json-database-api",
+  "version": "1.0.0",
+  "description": "A simple API to serve JSON database",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
